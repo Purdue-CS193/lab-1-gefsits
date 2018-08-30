@@ -1,3 +1,8 @@
+# Gabriel Efsits' first CS193 Lab
+
+- All the good restaurants that are around.
+- All the help you can get for any class or course at almost any time.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,12 +16,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Gabe Efsits' first CS193 Lab
+# Header 1
 ## Header 2
 ### Header 3
 
-- All the good restaurants that are around if you want to go on a nice date with your cute friends.
-- All the help youcan get for any class or course at almost any time.
+- Bulleted
+- List
 
 1. Numbered
 2. List
